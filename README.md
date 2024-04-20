@@ -1,1 +1,1 @@
-Readme.md creado desde la terminal
+This repo takes place to submit assignments during my SSL course
