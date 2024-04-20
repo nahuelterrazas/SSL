@@ -15,6 +15,6 @@ INSTRUCTIONS TESTED ON LINUX
 
 2. Once you got your executable, you'll need to capture its output
 
-   ./fileNameYouWant > outputResult.txt
+   ./fileNameYouWant.exe > outputResult.txt
 
 Done! :)
